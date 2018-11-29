@@ -1,0 +1,9 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	transform-style: preserve-3d;
+}
+h3 {
+	font-size: 20px;
+}
